@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://darkoverlordofdata.com/guitar-tuner/precache-manifest.9a2cf77ae45da0bb011885785dd3bec8.js"
+  "https://darkoverlordofdata.com/guitar-tuner/precache-manifest.ee065bbc5f8674b54c5bb97f5629b04e.js"
 );
 
 self.addEventListener('message', (event) => {

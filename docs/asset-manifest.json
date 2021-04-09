@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://darkoverlordofdata.com/guitar-tuner/static/css/main.d76971ca.chunk.css",
-    "main.js": "https://darkoverlordofdata.com/guitar-tuner/static/js/main.311a6f36.chunk.js",
-    "main.js.map": "https://darkoverlordofdata.com/guitar-tuner/static/js/main.311a6f36.chunk.js.map",
+    "main.css": "https://darkoverlordofdata.com/guitar-tuner/static/css/main.3ecc3c7e.chunk.css",
+    "main.js": "https://darkoverlordofdata.com/guitar-tuner/static/js/main.fb8aab67.chunk.js",
+    "main.js.map": "https://darkoverlordofdata.com/guitar-tuner/static/js/main.fb8aab67.chunk.js.map",
     "runtime-main.js": "https://darkoverlordofdata.com/guitar-tuner/static/js/runtime-main.d484f5b7.js",
     "runtime-main.js.map": "https://darkoverlordofdata.com/guitar-tuner/static/js/runtime-main.d484f5b7.js.map",
     "static/js/2.ba987487.chunk.js": "https://darkoverlordofdata.com/guitar-tuner/static/js/2.ba987487.chunk.js",
     "static/js/2.ba987487.chunk.js.map": "https://darkoverlordofdata.com/guitar-tuner/static/js/2.ba987487.chunk.js.map",
     "index.html": "https://darkoverlordofdata.com/guitar-tuner/index.html",
-    "precache-manifest.9a2cf77ae45da0bb011885785dd3bec8.js": "https://darkoverlordofdata.com/guitar-tuner/precache-manifest.9a2cf77ae45da0bb011885785dd3bec8.js",
+    "precache-manifest.ee065bbc5f8674b54c5bb97f5629b04e.js": "https://darkoverlordofdata.com/guitar-tuner/precache-manifest.ee065bbc5f8674b54c5bb97f5629b04e.js",
     "service-worker.js": "https://darkoverlordofdata.com/guitar-tuner/service-worker.js",
-    "static/css/main.d76971ca.chunk.css.map": "https://darkoverlordofdata.com/guitar-tuner/static/css/main.d76971ca.chunk.css.map",
+    "static/css/main.3ecc3c7e.chunk.css.map": "https://darkoverlordofdata.com/guitar-tuner/static/css/main.3ecc3c7e.chunk.css.map",
     "static/js/2.ba987487.chunk.js.LICENSE.txt": "https://darkoverlordofdata.com/guitar-tuner/static/js/2.ba987487.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d484f5b7.js",
     "static/js/2.ba987487.chunk.js",
-    "static/css/main.d76971ca.chunk.css",
-    "static/js/main.311a6f36.chunk.js"
+    "static/css/main.3ecc3c7e.chunk.css",
+    "static/js/main.fb8aab67.chunk.js"
   ]
 }
