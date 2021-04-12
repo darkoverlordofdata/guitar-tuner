@@ -1,0 +1,17 @@
+{
+  "name": "guitar-tuner",
+  "version": "1.0.0",
+  "description": "Guitar Tuner",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/darkoverlordofdata/guitar-tuner",
+  "keywords": [],
+  "author": "darkoverlordofdata",
+  "license": "BSD",
+  "dependencies": {
+    "electron": "^10.1.2",
+    "electron-store": "^6.0.0"
+  }
+}

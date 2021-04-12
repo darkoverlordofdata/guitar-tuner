@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Categories=Game;
+Name=GuitarTuner
+StartupWMClass=GuitarTuner
+Comment=GuitarTuner
+Icon=/home/darko/Documents/GitHub/guitar-tuner/build/GuitarTuner.png
+Exec=/home/darko/.yarn/bin/electron /home/darko/Documents/GitHub/guitar-tuner/build
