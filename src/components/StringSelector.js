@@ -2,20 +2,18 @@ import React from 'react';
 import Radio from '@material-ui/core/Radio';
 import FormControlLabel from '@material-ui/core/FormControlLabel';
 
-        {/* <div>
-          <String name='E2' />
-          <String name='A2' />
-          <String name='D3' />
-          <String name='G3' />
-          <String name='B3' />
-          <String name='E4' />
-        </div> */}
 
-export default function StringSelector() {
-  const [selectedValue, setSelectedValue] = React.useState('E2');
+export default function StringSelector(props) {
+  const [selectedValue, setSelectedValue] = React.useState(props.selected);
+  const [instrument, setInstrument] = React.useState(props.instrument);
+  const [tuning, setTuning] = React.useState(props.tuning);
 
+  /**
+   * Raise an event to be caught by PitchGauge
+   * event.target.value will be the selected string, E2 ... E4
+   */
   const handleChange = (event) => {
-    alert(`selected ${event.target.value}`)
+    // alert(`selected ${event.target.value}`)
     setSelectedValue(event.target.value);
   };
 

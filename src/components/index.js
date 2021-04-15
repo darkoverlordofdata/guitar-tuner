@@ -1,3 +1,4 @@
 export { default as StringSelector } from './StringSelector';
-export { default as PitchReadout } from './PitchReadout';
+export { default as PitchGauge } from './PitchGauge';
+export { default as AudioRecorderControl } from './AudioRecorderControl';
 
